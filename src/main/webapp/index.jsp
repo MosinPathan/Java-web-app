@@ -56,7 +56,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Your Maven-Based Web Application (Creted by MOSIN PATHAN)</h1>
+        <h1>Welcome to Your Maven-Based Web Application (Created by MOSIN PATHAN)</h1>
     </header>
     <main>
         <div class="card">
